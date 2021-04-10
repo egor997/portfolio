@@ -1,0 +1,299 @@
+body {
+  margin: 0px; }
+
+.i {
+  height: 75px;
+  margin: 3px; }
+
+.nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 2px;
+  justify-content: space-between;
+  height: 10vh; }
+
+ul {
+  display: flex; }
+
+li {
+  list-style: none;
+  font-size: 22px;
+  padding: 0 20px; }
+
+a {
+  text-decoration: none;
+  color: white; }
+
+.wow {
+  background: url(img/showcase.jpg);
+  height: 100vh;
+  width: 100vw; }
+  .wow .container {
+    padding: 10px 50px; }
+
+.wows {
+  height: 10vh;
+  background: url(img/showcase.jpg); }
+
+.gross {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  padding: 250px;
+  text-align: center; }
+  .gross .d {
+    font-size: 15px;
+    color: black;
+    height: 40px; }
+  .gross .h {
+    font-size: 40px; }
+
+.polosa {
+  background-color: yellow;
+  height: 5px;
+  width: 50px;
+  padding: 0 100px; }
+
+.polosa1 {
+  background-color: yellow;
+  height: 5px;
+  width: 50px;
+  padding: 0 100px;
+  margin-left: 225px; }
+
+.uspexi {
+  display: flex;
+  justify-content: center;
+  text-align: center; }
+
+.pods4 {
+  display: flex;
+  flex: row;
+  flex-wrap: nowrap;
+  width: 100%;
+  text-align: center; }
+  .pods4 .s6 {
+    padding: 10px;
+    width: 33.3333%;
+    font-size: 17px;
+    padding: 10px; }
+  .pods4 .wersus {
+    width: 33.333%;
+    color: white;
+    background-color: black;
+    padding: 10px 0px; }
+  .pods4 img {
+    height: 50px; }
+  .pods4 .s4 {
+    width: 25%;
+    font-size: 17px;
+    padding: 10px; }
+  .pods4 .s1 {
+    width: 25%;
+    background-color: lightgray;
+    padding: 10px; }
+  .pods4 .s2 {
+    padding: 10px;
+    width: 25%;
+    background-color: gray; }
+  .pods4 .wers {
+    font-size: 15px;
+    padding: 10px;
+    width: 25%; }
+
+.fut {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 2px;
+  justify-content: space-between;
+  height: 7vh;
+  background-color: black;
+  color: white; }
+  .fut .cc {
+    display: flex;
+    flex-direction: row; }
+    .fut .cc .circle {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 35px;
+      width: 35px;
+      border: white solid 3px;
+      border-radius: 50%;
+      margin: 3px; }
+    .fut .cc img {
+      height: 20px; }
+
+.podsack {
+  display: flex;
+  flex: row;
+  flex-wrap: nowrap;
+  width: 100%;
+  padding: 0px 50px; }
+  .podsack .it {
+    background-color: yellow;
+    width: 100%; }
+  .podsack .werk {
+    width: 100%;
+    height: 100%; }
+    .podsack .werk:hover {
+      opacity: 0; }
+  .podsack img {
+    height: 100%;
+    width: 100%; }
+
+.etwas {
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 0px 50px;
+  width: 100%; }
+  .etwas .podetwas1 {
+    width: 50%;
+    margin: 8px; }
+    .etwas .podetwas1 .wer {
+      width: 85%;
+      height: 3vh; }
+  .etwas .podetwas2 {
+    margin: 10px;
+    width: 100%;
+    display: flex;
+    text-align: start; }
+    .etwas .podetwas2 .wer1 {
+      width: 93%;
+      height: 12vh; }
+
+.podetwasss {
+  width: 100%;
+  padding: 0px 50px;
+  margin: 10px;
+  display: flex;
+  justify-content: center; }
+  .podetwasss .wer {
+    width: 50%;
+    background-color: darkgray; }
+
+.tuta {
+  background-color: yellow;
+  color: white;
+  height: 250px;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center; }
+
+.abo {
+  height: 300px;
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap; }
+  .abo .photo {
+    width: 30%;
+    height: 100%; }
+    .abo .photo img {
+      width: 100%;
+      height: 100%; }
+  .abo .snowaPolosa {
+    width: 0.5%;
+    height: 100%;
+    background-color: yellow; }
+  .abo .text {
+    text-align: center;
+    width: 69.5%;
+    height: 100%;
+    background-color: lightgray; }
+    .abo .text .hands {
+      padding: 0px 5px; }
+    .abo .text .lorem {
+      padding: 0px 5px; }
+
+.container1 {
+  padding: 0px 50px;
+  background-color: dimgray;
+  color: white; }
+  .container1 .arron {
+    display: flex;
+    flex-direction: column;
+    padding: 5px; }
+    .container1 .arron .skill {
+      text-align: center; }
+    .container1 .arron .polosa {
+      background-color: yellow;
+      height: 5px;
+      width: 50px;
+      padding: 0 100px;
+      margin-left: 577px; }
+    .container1 .arron .qw {
+      padding: 3px; }
+    .container1 .arron .success {
+      height: 20px;
+      background: lightgrey;
+      border-radius: 5px;
+      margin-bottom: 10px; }
+      .container1 .arron .success div {
+        height: 100%;
+        border-radius: 5px;
+        color: #fff;
+        background: #e9ec0d; }
+
+#home-c .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; }
+
+#home-c .section-title {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+#home-c .process {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  text-align: center; }
+  #home-c .process-step {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 28px;
+    background: yellow;
+    color: #333;
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    line-height: 15px;
+    padding: 1rem;
+    transition: all 2s; }
+  #home-c .process-icon {
+    border-radius: 50%;
+    background: #333;
+    color: #fff;
+    padding: 2rem;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    text-align: center;
+    position: relative;
+    transition: all 1s; }
+    #home-c .process-icon:hover {
+      background: #29e671;
+      width: 90px;
+      height: 90px;
+      line-height: 90px; }
+      #home-c .process-icon:hover .process-step {
+        background: #1d93e2;
+        color: #fff; }
+
+@media (max-width: 800px) {
+  #header-home {
+    height: 30px; }
+    #header-home .header-content {
+      padding-top: 5px; } }
